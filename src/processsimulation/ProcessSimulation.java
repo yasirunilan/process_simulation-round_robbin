@@ -15,7 +15,9 @@ public class ProcessSimulation {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        SimulationWindow SW=new SimulationWindow();
+        //System.out.println("yasiru");
+        SW.setVisible(true);
     }
     
 }
